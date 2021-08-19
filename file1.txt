@@ -1,3 +1,12 @@
 Testing pulls
+<<<<<<< HEAD
 
 This is a test
+=======
+usiafus 
+
+sajfiohjasp
+afjfiojaf
+aofahn
+aafiufhaif
+>>>>>>> b91e890255d36bb0e5fdd3238419ab13237f3422
